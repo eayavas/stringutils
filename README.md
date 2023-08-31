@@ -53,3 +53,11 @@ All PR’s are welcome!
 ## License
 This project is licensed under GPLv3
 
+---
+
+## Code Of Conduct
+
+This project is intended to be a safe, welcoming space for collaboration, and
+contributors are expected to adhere to the [code of conduct][coc].
+
+[coc]: https://github.com/eayavas/stringutils-demo/blob/main/CODE_OF_CONDUCT.md
