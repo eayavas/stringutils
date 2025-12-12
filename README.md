@@ -51,7 +51,7 @@ All PR’s are welcome!
 ---
 
 ## License
-This project is licensed under GPLv3
+This project is licensed under MIT
 
 ---
 
