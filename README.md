@@ -19,7 +19,7 @@ package main
 import (
     "fmt"
 
-    "github.com/vigo/stringutils-demo"
+    "github.com/eayavas/stringutils"
 )
 
 func main(){
